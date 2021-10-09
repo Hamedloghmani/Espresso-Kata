@@ -15,3 +15,4 @@ The solutions are mostly just my ideas for the problems. Hence, there might be m
 * 8 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 * 9 - [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 * 10 - [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
+* 11 - [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
