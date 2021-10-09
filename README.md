@@ -14,3 +14,4 @@ The solutions are mostly just my ideas for the problems. Hence, there might be m
 * 7 - [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 * 8 - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 * 9 - [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
+* 10 - [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
